@@ -1,0 +1,61 @@
+.logo{
+  height: 25px;
+  margin-left: 20px;
+}
+
+.btn-sign-up{
+  background-color: #007676;
+
+}
+.form-contact{
+  width:100%;
+
+}
+
+.contact-title{
+  margin: 0 auto;
+  width: 60%;
+  margin-top: 60px;
+
+}
+
+.menu{
+  margin-right: 20px;
+  font-weight: bold;
+
+}
+.thongtin
+{
+  margin-bottom: 15px;
+}
+.message{
+  height: 100px;
+}
+.footer{
+  background-color: #f9f9f9;
+  padding: 40px 0px 15px 0px;
+}
+.logo-footer{
+  width:155px;
+  margin: 7px 0px;
+}
+
+.title{
+  font-size: 20px;
+  font-weight:bold;
+  margin-bottom:7px;
+  color: #007676;
+}
+.link{
+  color: #007676;
+}
+.mota{
+  color: #000000;
+}
+
+.col-left > p > a{
+  text-decoration: underline;
+}
+.col-left > p > a:hover{
+  color:#000000;
+}
